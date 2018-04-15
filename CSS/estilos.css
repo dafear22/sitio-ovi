@@ -1,0 +1,125 @@
+#principal {
+
+	width:780px;
+	heigth:auto;overflow: hidden;
+	border:1px solid #000;
+	margin:auto;
+
+}
+{
+	img.alineadoTextoImagenArriba{
+  	vertical-align: text-top;  
+}
+
+}
+
+header {
+	width:780px;
+	heigth:100px;
+	border:0px solid #000;
+}
+#logo {
+	width:200px;
+	heigth:100px;
+	border:0px solid #000;
+	float:left;
+}
+
+.titulo {
+	margin-top:25px;
+	font-size: 30px;
+
+}
+
+.sub-titulo {
+
+	font-size: 14px;
+	margin-top: -10px;
+}
+.menu ul {}
+
+.menu ul li {
+	list-style:none;
+	float: left;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #000
+	color:#fff;
+}
+
+.menu ul li a:hover{
+	background:#000000;
+	color: #006699;
+	transition: background 1s, color 1s,
+}
+#slide{
+	margin-top:-5px;
+	width:780px;
+	height:250px;
+}
+#categorias {
+	width:780px;
+	height:auto;overflow: hidden;
+	border: 0px solid;
+	margin-top: 10px;
+}
+.uno {
+	width:245px;
+	height:auto; overflow: hidden;
+	border: 1px solid #000;
+	float:left;
+	padding: 5px;
+	text-align:center;
+}
+.dos {
+	margin-left:12px;
+	margin-right:10px;
+}
+
+.leer-mas {
+	text-decoration: none;
+	border: 1px solid ·006699;
+	padding: 10px 20px 10px 
+	margin: 10px;
+}
+
+.leer-mas:hover {
+	background:#006699;
+	color:#fff;
+	transition: background 1s, color 1s;
+}
+#info{
+	width: 900px;
+	height: auto; ovrflow: hidden;
+	border: 1px solid #cococo;
+	margin-top: 10px;
+} 
+#izq{
+	width: 500px;
+	height: 10 px;overflow: hidden;
+	border: 1px solid #000;
+	float: left;
+	padding: 5px;
+}
+
+#der{
+
+	width: 380px;
+	height: auto; overflow;
+	border: 1px solid #000;
+	float: right;
+}
+
+#footer {
+	
+	width: 290px;
+	height: 100px;
+	text-aling: center;
+}
+´´
+#footer p{
+	width: 500px
+}
