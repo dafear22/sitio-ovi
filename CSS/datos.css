@@ -1,0 +1,37 @@
+
+#categorias {
+	width:108%;
+	height:100%;overflow: hidden;
+	border: 0px solid;
+	margin-top: 10px;
+}
+.uno {
+	width:30%;
+	height:98%; overflow: hidden;
+	border: 1px solid #000;
+	float:left;
+	padding: 5px;
+	text-align:center;
+}
+.dos {
+	margin-left:12px;
+	margin-right:10px;
+}
+
+
+#izq{
+	width: 50%;
+	height: 100%;overflow: hidden;
+	border: 1px solid #000;
+	float: left;
+	padding: 5px;
+}
+
+#der{
+
+	width: 880px;
+	height: 500px; overflow;
+	border: 8px solid #000;
+	float: right;
+}
+
